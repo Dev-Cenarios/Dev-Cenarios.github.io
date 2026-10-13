@@ -5,11 +5,11 @@ website:
   title: "Cenários"
   site-url: https://dev-cenarios.github.io
   description: "Ciência de dados, IA e epidemiologia para o SUS."
-  favicon: logo.png
+  favicon: logo.jpeg
   back-to-top-navigation: true
   search: false
   navbar:
-    logo: logo.png
+    logo: logo.jpeg
     left:
       - href: index.qmd
         text: Início
