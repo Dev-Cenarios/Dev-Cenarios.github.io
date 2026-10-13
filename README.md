@@ -8,7 +8,6 @@ Endereço: https://dev-cenarios.github.io
 
 - Página inicial: `index.qmd`
 - Projetos: `projetos.qmd`
-- Novo post: crie `posts/nome-do-post/index.qmd`
 
 Ver localmente: `quarto preview`
 
