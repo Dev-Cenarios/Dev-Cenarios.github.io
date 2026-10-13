@@ -1,0 +1,9 @@
+---
+title: "Boas-vindas ao site do Dev-Cenários"
+date: 2026-10-13
+categories: [notícias]
+---
+
+Este é o novo site da equipe de desenvolvimento do Projeto Cenários.
+
+Aqui vamos publicar novidades sobre nossos painéis, análises e pacotes em R.

@@ -1,0 +1,44 @@
+project:
+  type: website
+
+website:
+  title: "Dev-Cenários"
+  site-url: https://dev-cenarios.github.io
+  description: "Ciência de dados, IA e epidemiologia para o SUS."
+  favicon: logo.png
+  back-to-top-navigation: true
+  navbar:
+    logo: logo.png
+    left:
+      - href: index.qmd
+        text: Início
+      - href: projetos.qmd
+        text: Projetos
+      - href: paineis.qmd
+        text: Painéis
+      - href: blog.qmd
+        text: Blog
+    right:
+      - icon: github
+        href: https://github.com/Dev-Cenarios
+      - icon: globe
+        href: https://cenarios.unb.br/
+      - icon: rss
+        href: blog.xml
+  page-footer:
+    left: "© 2026 Projeto Cenários · Universidade de Brasília"
+    right:
+      - icon: github
+        href: https://github.com/Dev-Cenarios
+      - icon: linkedin
+        href: https://www.linkedin.com/company/projetocen%C3%A1rios/
+      - icon: instagram
+        href: https://www.instagram.com/cenariossaude
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    lang: pt-BR
+    toc: false

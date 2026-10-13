@@ -1,0 +1,14 @@
+---
+title: "Painéis"
+---
+
+Painéis interativos desenvolvidos pela equipe.
+
+| Painel | Região | Acesso |
+|---|---|---|
+| Monitoramento da dengue | Distrito Federal | [Abrir painel](#) |
+| Monitoramento da dengue | RIDE-DF | [Abrir painel](#) |
+
+::: {.callout-note}
+Troque os `#` acima pelos links dos painéis publicados (shinyapps.io, servidor da UnB etc.).
+:::
