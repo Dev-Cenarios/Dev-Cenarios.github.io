@@ -7,12 +7,14 @@ title: "Projetos"
 ### Painel de monitoramento da dengue no DF
 Acompanhamento de casos de dengue no Distrito Federal.
 
-[{{< bi github >}} Repositório](https://github.com/Dev-Cenarios/Painel_monitoramento_df_dengue)
+[{{< bi box-arrow-up-right >}} Abrir painel](https://cenarios.unb.br/dashboard-dengue-df-painel-de-monitoramento-epidemiologico/){.btn .btn-primary target="_blank"}
+[{{< bi github >}} Repositório](https://github.com/Dev-Cenarios/Painel_monitoramento_df_dengue){.btn .btn-outline-secondary target="_blank"}
 
 ### Painel de monitoramento da dengue na RIDE-DF
 Acompanhamento de casos de dengue na Região Integrada de Desenvolvimento do DF e Entorno.
 
-[{{< bi github >}} Repositório](https://github.com/Dev-Cenarios/Painel_monitoramento_ride_dengue)
+[{{< bi box-arrow-up-right >}} Abrir painel](https://cenarios.unb.br/dashboard-dengue-ride-painel-de-monitoramento-epidemiologico/){.btn .btn-primary target="_blank"}
+[{{< bi github >}} Repositório](https://github.com/Dev-Cenarios/Painel_monitoramento_ride_dengue){.btn .btn-outline-secondary target="_blank"}
 
 ## Tuberculose
 

@@ -1,5 +1,5 @@
 ---
-title: "Boas-vindas ao site do Dev-Cenários"
+title: "Boas-vindas ao site do Cenários"
 date: 2026-10-13
 categories: [notícias]
 ---

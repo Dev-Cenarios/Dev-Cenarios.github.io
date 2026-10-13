@@ -1,6 +1,6 @@
 # Dev-Cenarios.github.io
 
-Site da equipe Dev-Cenários (Projeto Cenários, UnB), feito com [Quarto](https://quarto.org).
+Site da equipe Cenários (Projeto Cenários, UnB), feito com [Quarto](https://quarto.org).
 
 Endereço: https://dev-cenarios.github.io
 
@@ -8,7 +8,6 @@ Endereço: https://dev-cenarios.github.io
 
 - Página inicial: `index.qmd`
 - Projetos: `projetos.qmd`
-- Painéis: `paineis.qmd`
 - Novo post: crie `posts/nome-do-post/index.qmd`
 
 Ver localmente: `quarto preview`
