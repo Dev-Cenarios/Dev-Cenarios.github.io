@@ -43,3 +43,4 @@ format:
       dark: darkly
     lang: pt-BR
     toc: false
+    anchor-sections: false
